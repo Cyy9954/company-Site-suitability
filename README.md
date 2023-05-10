@@ -38,11 +38,6 @@ In the GUI of this program, the user can select the weight of each raster by dra
 In summary, the program provides a convenient interface that allows the user to easily select weights for the raster data and then generate a weighted raster based on these weights and display it. The generated raster can then be used for subsequent spatial analysis and decision making.
 
 ## File description
-- geology.txt : raster data on geology.
-
-- population.txt : Raster data on demography.
-
-- transport.txt : raster data on transport.
 
 **site.py**： the main body of the application, containing Tkinter, matplotlib's main loop and the GUI.
 
