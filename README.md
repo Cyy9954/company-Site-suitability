@@ -143,4 +143,4 @@ Function saves the generated image to a file, to a path of your choice.
 
 ## License
 
-[MIT](LICENSE) © Yangyang Chen Littauer
+[MIT](LICENSE) © Cyy9954 Littauer
